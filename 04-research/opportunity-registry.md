@@ -36,6 +36,7 @@
 | ID | الشركة | القطاع | التطبيق | المنتج المحتمل | حالة الفرصة | مستوى التحقق | الشخص/القسم المستهدف | الخطوة التالية | Opportunity Card |
 |---|---|---|---|---|---|---|---|---|---|
 | #001 | El Maraghy Pack | Flexible Films | Stretch Film | Paper Core | Promising Opportunity | Direct Customer Validation Needed | Purchasing / Core Procurement | التحقق المباشر من المواصفة والاستهلاك والتوريد والمشاكل وآلية اعتماد المورد | [El Maraghy Pack Opportunity](./el-maraghy-pack-opportunity.md) |
+| #002 | Al-Qadisiyah Pack | Flexible Packaging / Plastic Films | Film Rolls / Agricultural & Packaging Films | Paper / Cardboard Core | Promising Opportunity | Existing Customer / Direct Market Validation | Purchasing / Production / Core Procurement | توثيق التطبيقات والمواصفات والاستهلاك والموردين والمشاكل وآلية اعتماد المورد | [Al-Qadisiyah Pack Opportunity](./al-qadisiyah-pack-opportunity.md) |
 
 ---
 
@@ -76,13 +77,21 @@
 
 ---
 
-## 6. Pilot Case #001 — El Maraghy Pack
+## 6. Pilot Cases
+
+### Pilot Case #001 — El Maraghy Pack
 
 تمثل El Maraghy Pack أول حالة تطبيقية لهذا النظام.
 
 وجودها هنا لا يعني أنها معيار للحكم على جميع الشركات، وإنما لأنها ساعدت في اختبار وتطوير **Customer Qualification Framework**.
 
 الدروس المستفادة منها يتم تسجيلها في الإطار العام لتأهيل العملاء، وليس استخدامها كقالب جامد لكل القطاعات.
+
+### Pilot Case #002 — Al-Qadisiyah Pack
+
+تمثل Al-Qadisiyah Pack حالة تطبيقية ثانية مهمة لاختبار النظام على شركة توجد معها علاقة وتعامل فعلي، وعلى شركة لديها أكثر من تطبيق ومواصفات مختلفة للكور.
+
+الدروس المستفادة منها تركز على أهمية تقييم الفرصة على مستوى **التطبيق والمواصفة**، وليس اسم الشركة فقط.
 
 ---
 
