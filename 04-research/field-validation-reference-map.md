@@ -40,6 +40,12 @@
 | SH Chemical | PVC Cling / Stretch Film / Jumbo Rolls | Field Validated | يستخدم المنتج |
 | EPPS / Makka | Packaging / Plastic Systems | Field Validated | المستخدم أكد انطباق المنتج |
 | Al Ashram Hi One | Yarn / Spinning / Textile | Field Validated | ينطبق على المنتج |
+| COGEBI Middle East | Electrical Insulation / Mica Tape Rolls | Field Validated | يستخدم منتجات Alamir Pack بمواصفات مختلفة حسب التطبيق |
+| Hima Foam | Plastic Films / Insulation & Lining Rolls | Field Validated | يستخدم منتجات Alamir Pack بمقاسات مختلفة |
+| مصنع البركة للعزل والتغليف | Insulation / Packaging Rolls | Field Validated — Partial Application Mix | يستخدم منتجات Alamir Pack؛ بعض الاستخدامات بمقاسات صغيرة، مع وجود تطبيقات عزل تحتاج مقاسات أكبر قليلًا |
+| Qena Paper Industry Company (QPIC) | Paper Mill / Industrial Paper Reels | Field Validated | يستخدم منتجات Alamir Pack ضمن تطبيقات رولات الورق، مع اختلاف المواصفات حسب المنتج |
+| Nile Paper | Industrial Paper / Kraft / Testliner / Fluting Rolls | Field Validated | يستخدم منتجات Alamir Pack ضمن تطبيقات رولات الورق |
+| Maher Hosny Group | Paper & Board / Jumbo Rolls | Field Validated | يستخدم منتجات Alamir Pack ضمن تطبيقات الرولات الصناعية |
 
 ---
 
@@ -62,7 +68,9 @@
 - DWC / Do Well — لا علاقة مباشرة بمنتجات Alamir Pack.
 - DeebTex — التطبيق غير مناسب للمنتج المطلوب.
 - Huhtamaki Flexibles Egypt — لا ينطبق على المنتج.
-- GlassRock — لم يثبت انطباق المنتج.
+- GlassRock — المستخدم أكد أن التطبيق لا ينطبق على منتجات Alamir Pack.
+- ROCKAL — المستخدم أكد أن التطبيق لا ينطبق على منتجات Alamir Pack.
+- Egypt Fibre — المستخدم أكد أن التطبيق لا ينطبق على منتجات Alamir Pack.
 - IPI / Interstate Paper Industries — تم استبعاده لأن تطبيق الـCore في منتجات Tissue لا يمثل التطبيق الصناعي المستهدف للكور الخاص بـAlamir Pack.
 - Alintissar — تم إسقاطه من البحث بعد مشكلة المصادر/الروابط وعدم الاعتماد عليه.
 - CELLOPACK — مصنع للكور نفسه، وبالتالي ليس هدف مبيعات للكور؛ يستخدم كمرجع لفهم التطبيقات فقط.
@@ -93,22 +101,90 @@
 
 ---
 
-## 6. قاعدة البحث التالية
+## 6. قواعد بحث تم تعزيزها من الـField Validation
 
-بعد هذه المعايرة، يجب أن نبحث عن:
+### أ. مصانع الورق الصناعية
 
-1. تطبيقات صناعية جديدة.
-2. شركات مصرية حقيقية تعمل في هذه التطبيقات.
-3. 2–3 شركات قوية فقط في كل جولة.
-4. تجنب إعادة البحث في التطبيقات التي أصبحت لدينا فيها مراجع كافية.
-5. استخدام Field Validation من المستخدم لتحديث نموذج البحث.
-6. عدم اعتبار الشركة فرصة تجارية كاملة إلا بعد مرحلة Qualification منفصلة.
+المستخدم أكد أن شركات الورق الصناعية التي تنتج الورق/الكرتون في صورة رولات تستخدم منتجات Alamir Pack بدرجة عالية جدًا من الاعتماد العملي.
+
+لذلك يمكن اعتبار:
+
+**Paper Manufacturing + Industrial Rolls/Reels → Paper/Cardboard Core**
+
+مسار بحث أساسي وأولوية عالية.
+
+هذه القاعدة هي **Field Knowledge من المستخدم وليست إحصائية منشورة**، ويجب مع ذلك ربط كل شركة بتطبيقها الفعلي وحجم/مواصفات الرولات عند تقييم الأولوية التجارية.
+
+### ب. شركات البلاستيك المستهدفة
+
+المقصود ليس كل شركة تعمل في البلاستيك.
+
+المسار المستهدف هو الشركات التي **تنتج أفلامًا أو مواد بلاستيكية في صورة Rolls/Jumbo Rolls أو منتجات يتم لفها**، مثل تطبيقات الـFilm وStretch Film وBOPP وPVC وغيرها.
+
+أما الشركات التي تنتج:
+- Resin / Raw Plastic
+- Compounding
+- منتجات بلاستيكية مصبوبة أو مشكلة بدون عملية Roll/Winding
+
+فلا يتم اعتبارها تلقائيًا من مستخدمي الكور.
+
+القاعدة العملية:
+
+**Plastic Film/Roll Production → Winding → Core**
+
+وليس:
+
+**Plastic Industry → Core**
 
 ---
 
-## 7. Status
+## 7. مرجع MAMPACK الصناعي
+
+MAMPACK يُستخدم كمرجع صناعي قوي لفهم **التطبيق** الذي يدخل فيه الكور، وليس كعميل مستهدف.
+
+أهم ما نستفيده من هذا المرجع هو ربط الكور بالتطبيق المحدد، مثل:
+- Insulation Material Winding
+- Thermal / Electrical Insulation Materials
+- Mineral Wool Winding
+- Paper Mill / Industrial Roll Applications
+
+وهذا يعني أن البحث يجب أن يبدأ من **المادة أو المنتج الذي يتم لفه** ثم ينتقل إلى الشركة المصنعة، بدل البحث عن شركات القطاع بشكل عام.
+
+---
+
+## 8. قاعدة الأولوية التجارية
+
+وجود Field Fit لا يعني أن كل الفرص متساوية تجاريًا.
+
+عند ترتيب الفرص لاحقًا، نرفع الأولوية نسبيًا عندما نجد:
+- قطر Core أكبر
+- متطلبات قوة/تحمل أعلى
+- Jumbo / Heavy Rolls
+- استهلاك متكرر أو متعدد التطبيقات
+- قيمة مرتفعة للمنتج الذي يتم لفه أو حمايته
+- أكثر من خط أو منتج يستخدم الكور
+
+أما الاستخدامات ذات الكور الأصغر فتظل **فرصًا صحيحة**، لكنها قد تكون أقل أولوية تجاريًا مقارنة بالتطبيقات الثقيلة، حسب حجم الاستهلاك والمواصفات.
+
+---
+
+## 9. قاعدة المعايرة الجديدة
+
+بعد هذه الجولة، أصبح لدينا مساران مرجعيان قويان للبحث:
+
+**Paper Manufacturers → Industrial Paper Rolls → Core**
+
+و
+
+**Plastic Film/Roll Manufacturers → Film Winding → Core**
+
+مع استخدام MAMPACK كمرجع لفهم تطبيقات الكور في قطاعات إضافية، وليس كبديل عن التحقق الميداني.
+
+---
+
+## 10. Status
 
 **Status:** Active Research Reference  
-**Last Updated:** 2026-10-02
+**Last Updated:** 2026-10-03
 
-هذا الملف يمثل نقطة التوقف الحالية قبل استكمال Industry Discovery في الجولة القادمة.
+هذا الملف يمثل نقطة المعايرة الحالية قبل استكمال Industry Discovery في الجولات القادمة.
