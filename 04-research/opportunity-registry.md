@@ -28,6 +28,8 @@
 - كل فرصة مهمة يجب أن يكون لها Opportunity Card مستقلة عند الحاجة.
 - تحديث حالة الفرصة يجب أن يستند إلى دليل أو معلومة جديدة.
 - لا يتم تسجيل تواصل أو رد من شركة إلا إذا حدث فعليًا.
+- **Field Validated** يعني أن المستخدم أكد أن التطبيق الفعلي للشركة ينطبق على منتجات Alamir Pack؛ وهذا لا يعني أن كل بيانات التأهيل التجاري قد اكتملت.
+- عند توفر Field Validation قوية، يمكن تسجيل الشركة في الـRegistry حتى قبل اكتمال بيانات الاستهلاك والموردين وآلية الشراء، مع إبقاء مرحلة Qualification كخطوة مستقلة.
 
 ---
 
@@ -37,6 +39,12 @@
 |---|---|---|---|---|---|---|---|---|---|
 | #001 | El Maraghy Pack | Flexible Films | Stretch Film | Paper Core | Promising Opportunity | Direct Customer Validation Needed | Purchasing / Core Procurement | التحقق المباشر من المواصفة والاستهلاك والتوريد والمشاكل وآلية اعتماد المورد | [El Maraghy Pack Opportunity](./el-maraghy-pack-opportunity.md) |
 | #002 | Al-Qadisiyah Pack | Flexible Packaging / Plastic Films | Film Rolls / Agricultural & Packaging Films | Paper / Cardboard Core | Promising Opportunity | Existing Customer / Direct Market Validation | Purchasing / Production / Core Procurement | توثيق التطبيقات والمواصفات والاستهلاك والموردين والمشاكل وآلية اعتماد المورد | [Al-Qadisiyah Pack Opportunity](./al-qadisiyah-pack-opportunity.md) |
+| #003 | COGEBI Middle East | Electrical Insulation | Mica Tape / Insulation Rolls | Paper Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد المقاسات والاستهلاك والتطبيقات والموردين ومتطلبات التأهيل | — |
+| #004 | Hima Foam | Plastic Films / Insulation | Plastic Film / Insulation & Lining Rolls | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد المقاسات والاستهلاك والتطبيقات والموردين ومتطلبات التأهيل | — |
+| #005 | مصنع البركة للعزل والتغليف | Insulation / Packaging | Insulation & Packaging Rolls | Paper / Cardboard Core | Promising Opportunity | Field Validated — Partial Application Mix | Purchasing / Production / Core Procurement | فصل التطبيقات حسب المقاس والاستهلاك وتحديد التطبيقات الأعلى أولوية | — |
+| #006 | Qena Paper Industry Company (QPIC) | Paper Manufacturing | Industrial Paper Reels | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد أحجام الرولات والمواصفات والاستهلاك ومتطلبات القوة والتوريد | — |
+| #007 | Nile Paper | Paper Manufacturing | Kraft / Testliner / Fluting Rolls | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد أحجام الرولات والمواصفات والاستهلاك ومتطلبات القوة والتوريد | — |
+| #008 | Maher Hosny Group | Paper & Board Manufacturing | Jumbo Paper / Board Rolls | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد أحجام الرولات والمواصفات والاستهلاك ومتطلبات القوة والتوريد | — |
 
 ---
 
@@ -49,7 +57,7 @@
 يوجد تطبيق محتمل ودليل مناسب، لكن بعض عناصر التأهيل ما زالت مجهولة.
 
 ### Promising Opportunity
-توجد أدلة قوية على التطبيق والاحتياج المحتمل، وتبقى عملية التحقق المباشر.
+توجد أدلة قوية على التطبيق والاحتياج المحتمل، وتبقى عملية التحقق التجاري المباشر من المواصفات والاستهلاك والتوريد وآلية الشراء.
 
 ### Qualified Opportunity
 تم التحقق من الاحتياج والمواصفة والاستهلاك أو جزء كافٍ منه، وتم تحديد آلية الشراء والخطوة التالية.
@@ -95,10 +103,70 @@
 
 ---
 
-## 7. قاعدة الاستخدام
+## 7. Field Knowledge جديد من المعايرة
+
+### أ. مصانع الورق
+
+المستخدم أكد من الخبرة الميدانية أن شركات الورق الصناعية المستهدفة، خصوصًا التي تنتج في صورة رولات/Jumbo Reels، تُعد مستخدمًا قويًا لمنتجات Alamir Pack.
+
+لذلك:
+
+**Paper Manufacturing + Industrial Rolls/Reels → Core**
+
+يُعامل كمسار بحث وRegistry أساسي عالي الأولوية.
+
+هذه قاعدة Field Knowledge وليست إحصائية منشورة؛ ويجب عند التأهيل التجاري تحديد المقاسات والاستهلاك ومتطلبات القوة والتوريد لكل شركة.
+
+### ب. مصانع البلاستيك المستهدفة
+
+المقصود في البحث ليس كل الشركات التي تعمل في صناعة البلاستيك.
+
+المسار المستهدف هو:
+
+**Plastic Film / Roll Production → Winding → Core**
+
+أي الشركات التي تنتج أفلامًا أو مواد بلاستيكية في صورة رولات أو Jumbo Rolls أو منتجات يتم لفها.
+
+لا يتم إدخال شركات الراتنجات والمواد الخام أو الشركات التي تنتج منتجات بلاستيكية مشكلة بدون تطبيق Roll/Winding كفرص كور تلقائيًا.
+
+### ج. استخدام الحجم/القوة لتحديد الأولوية
+
+Field Fit لا يساوي Commercial Priority.
+
+تزيد الأولوية التجارية نسبيًا عندما توجد:
+- أقطار Core أكبر.
+- متطلبات قوة/تحمل أعلى.
+- Jumbo / Heavy Rolls.
+- استهلاك متكرر أو متعدد التطبيقات.
+- قيمة مرتفعة للمنتج الملفوف أو المحمي.
+
+الاستخدامات ذات الكور الأصغر تبقى فرصًا صحيحة، لكنها قد تكون أقل أولوية حسب الاستهلاك والمواصفات.
+
+---
+
+## 8. قاعدة الاستخدام
 
 عند انتهاء بحث أو تأهيل شركة جديدة:
 
-**Research → Qualification → Opportunity Card → Registry Update → Learning**
+**Research → Field Validation → Qualification → Opportunity Card → Registry Update → Learning**
 
 ويجب أن يعكس الـ Registry آخر حالة موثقة للفرصة، بينما تبقى التفاصيل والأدلة الكاملة داخل Opportunity Card الخاصة بها.
+
+---
+
+## 9. Current Registry Direction
+
+الاتجاه الحالي للـRegistry هو تجميع الشركات التي ثبت ميدانيًا أن منتجات Alamir Pack تنطبق عليها، مع إعطاء أولوية بحث وتأهيل أعلى للتطبيقات الصناعية ذات:
+- الرولات الكبيرة
+- الأقطار الأكبر
+- متطلبات القوة الأعلى
+- الاستهلاك المتكرر
+
+مع الاستمرار في تسجيل التطبيقات الأصغر عندما تكون مطابقة للمنتج، لأن مطابقة المنتج تظل قيمة بحثية وتجارية محتملة.
+
+---
+
+## 10. Status
+
+**Status:** Active  
+**Last Updated:** 2026-10-03
