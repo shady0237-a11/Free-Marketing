@@ -45,6 +45,9 @@
 | #006 | Qena Paper Industry Company (QPIC) | Paper Manufacturing | Industrial Paper Reels | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد أحجام الرولات والمواصفات والاستهلاك ومتطلبات القوة والتوريد | — |
 | #007 | Nile Paper | Paper Manufacturing | Kraft / Testliner / Fluting Rolls | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد أحجام الرولات والمواصفات والاستهلاك ومتطلبات القوة والتوريد | — |
 | #008 | Maher Hosny Group | Paper & Board Manufacturing | Jumbo Paper / Board Rolls | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد أحجام الرولات والمواصفات والاستهلاك ومتطلبات القوة والتوريد | — |
+| #009 | 3H Paper & Coating | Paper Converting / Industrial Reels | Jumbo Paper Reels / Slitting & Rewinding | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد المقاسات والاستهلاك ومتطلبات القوة والتوريد | — |
+| #010 | ELF Paper Mill | Paper Manufacturing | Industrial Paper Reels | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد المقاسات والاستهلاك ومتطلبات القوة والتوريد | — |
+| #011 | El-Obour for Paper Production | Paper & Paperboard Manufacturing | Industrial Paper Reels | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد المقاسات والاستهلاك ومتطلبات القوة والتوريد | — |
 
 ---
 
