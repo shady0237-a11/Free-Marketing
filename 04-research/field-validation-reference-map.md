@@ -46,6 +46,9 @@
 | Qena Paper Industry Company (QPIC) | Paper Mill / Industrial Paper Reels | Field Validated | يستخدم منتجات Alamir Pack ضمن تطبيقات رولات الورق، مع اختلاف المواصفات حسب المنتج |
 | Nile Paper | Industrial Paper / Kraft / Testliner / Fluting Rolls | Field Validated | يستخدم منتجات Alamir Pack ضمن تطبيقات رولات الورق |
 | Maher Hosny Group | Paper & Board / Jumbo Rolls | Field Validated | يستخدم منتجات Alamir Pack ضمن تطبيقات الرولات الصناعية |
+| 3H Paper & Coating | Paper / Jumbo Reels / Slitting & Rewinding | Field Validated | المستخدم أكد انطباق منتجات Alamir Pack بنسبة 100% |
+| ELF Paper Mill | Paper Manufacturing / Industrial Reels | Field Validated | المستخدم أكد انطباق منتجات Alamir Pack بنسبة 100% |
+| El-Obour for Paper Production | Paper & Paperboard / Industrial Reels | Field Validated | المستخدم أكد انطباق منتجات Alamir Pack بنسبة 100% |
 
 ---
 
