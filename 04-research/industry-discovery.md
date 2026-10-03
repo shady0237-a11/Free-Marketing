@@ -54,11 +54,12 @@ Research may include:
 * Converting industries
 * Textile industries
 * Paper and cardboard industries
-* Plastic-related industries
+* Plastic film and roll industries
 * Food-related industrial applications
 * Construction-related industrial applications
 * Logistics and shipping
 * Agricultural and industrial packaging
+* Insulation and industrial material winding applications
 * Other industrial sectors discovered through research
 
 This list is not a limitation.
@@ -152,7 +153,59 @@ The purpose is to move from:
 
 ---
 
-## 7. Evidence of Real Demand
+## 7. Priority Application Paths
+
+The Field Validation work has established several practical discovery paths that should now receive priority.
+
+### A. Paper Manufacturing
+
+For industrial paper manufacturers producing paper or board in Rolls/Reels/Jumbo Rolls:
+
+**Paper Manufacturing → Industrial Roll/Reel → Paper/Cardboard Core**
+
+The user’s field knowledge indicates that paper manufacturers in the relevant industrial category use Alamir Pack products at a very high practical rate (described by the user as approximately 99%).
+
+This is **Field Knowledge, not a published market statistic**. It should therefore guide discovery and registry building, while individual companies still need to be checked for the exact production/application and later qualified commercially.
+
+### B. Plastic Film / Roll Production
+
+The target is not every company in the plastics sector.
+
+The priority path is:
+
+**Plastic Film / Roll Production → Winding → Paper/Cardboard Core**
+
+Examples may include producers/converters of:
+- Stretch Film
+- BOPP Film
+- PVC Film
+- Cling Film
+- Other industrial or packaging films supplied in Roll/Jumbo Roll form
+
+The research should distinguish these companies from:
+- Resin/raw-material producers
+- Compounders
+- Plastic molding/forming companies without roll/winding applications
+- Other plastic manufacturers whose products are not supplied in wound roll form
+
+The user’s field validation indicates that relevant plastic-film/roll producers use Alamir Pack products, with core dimensions varying by application.
+
+### C. Insulation / Industrial Winding Applications
+
+Use strong application references such as MAMPACK to identify the **specific material/application**, not simply the sector name "insulation".
+
+Examples of useful application terms include:
+- Insulation Material Winding
+- Thermal Insulation Material Winding
+- Electrical Insulation Material Winding
+- Mineral Wool Winding
+- Other industrial insulation materials supplied in wound roll/tape form
+
+MAMPACK is a **strong industrial reference source**, not a target customer. Its value is in showing the application-to-core relationship and helping identify what type of insulation product actually requires a core.
+
+---
+
+## 8. Evidence of Real Demand
 
 A sector should not be considered a validated opportunity based only on technical compatibility.
 
@@ -169,12 +222,13 @@ Evidence may include:
 * Public product specifications
 * Customer requirements
 * Multiple independent sources confirming the same application
+* Direct Field Validation from the user
 
 The stronger the evidence, the stronger the opportunity hypothesis.
 
 ---
 
-## 8. Technical Fit
+## 9. Technical Fit
 
 For every promising opportunity, compare the identified requirements with Alamir Pack's official capabilities.
 
@@ -196,7 +250,24 @@ Do not invent technical capabilities that are not officially documented.
 
 ---
 
-## 9. Competition
+## 10. Commercial Priority
+
+A Field-Validated application is not automatically equal in commercial priority.
+
+When comparing opportunities, give higher attention to applications showing:
+- Larger Core diameters
+- Higher strength/load requirements
+- Jumbo / Heavy Rolls
+- Repeated or multi-application consumption
+- Higher product value at risk
+
+Smaller Core applications remain valid and should not be excluded merely because the dimensions are small. They may still be commercially useful depending on consumption and recurrence.
+
+**Field Fit ≠ Commercial Priority**
+
+---
+
+## 11. Competition
 
 For each promising sector, research:
 
@@ -212,7 +283,7 @@ The objective is to understand the market, not simply to list competitors.
 
 ---
 
-## 10. Customer Accessibility
+## 12. Customer Accessibility
 
 A technically suitable sector may still be difficult to reach.
 
@@ -231,7 +302,7 @@ The goal is to determine whether potential customers can realistically be reache
 
 ---
 
-## 11. Opportunity Validation
+## 13. Opportunity Validation
 
 A sector becomes a serious opportunity hypothesis only when there is evidence for several of the following:
 
@@ -246,11 +317,11 @@ A sector becomes a serious opportunity hypothesis only when there is evidence fo
 
 The process is:
 
-**Potential Sector → Research → Evidence → Opportunity Hypothesis → Validation → Test**
+**Potential Sector → Research → Evidence → Field Validation → Qualification → Test**
 
 ---
 
-## 12. Opportunity Classification
+## 14. Opportunity Classification
 
 Each discovered opportunity should be classified as:
 
@@ -274,7 +345,7 @@ These classifications are research statuses, not permanent judgments.
 
 ---
 
-## 13. What Happens After Discovery
+## 15. What Happens After Discovery
 
 When an opportunity becomes sufficiently supported, the next step is not automatically to spend money.
 
@@ -294,7 +365,7 @@ Results should then return to the marketing system for analysis.
 
 ---
 
-## 14. Discovery Record
+## 16. Discovery Record
 
 Each meaningful discovery should eventually be documented using a consistent structure:
 
@@ -340,22 +411,26 @@ The next practical action needed to validate the opportunity.
 
 ---
 
-## 15. Research Rules
+## 17. Research Rules
 
 * Do not invent sectors, customers, demand, or technical requirements.
 * Do not assume that technical compatibility means commercial demand.
 * Do not assume that a large industry means a good opportunity.
 * Do not rely on one weak source when stronger evidence is available.
-* Clearly distinguish facts, findings, hypotheses, and unknowns.
+* Clearly distinguish facts, findings, hypotheses, Field Knowledge, and unknowns.
 * Record sources for important findings.
 * Prefer current information when researching active industries.
 * Use multiple sources when possible.
+* Use user Field Validation as a calibration signal, not as a substitute for documenting what is known about a new company.
 * Keep unsuccessful opportunities documented when they provide useful learning.
 * Never change official Alamir Pack information based on external research.
+* For Paper Manufacturing, prioritize industrial paper/board production in Roll/Reel/Jumbo Roll form.
+* For Plastics, prioritize Film/Roll production and winding; do not treat generic plastics manufacturing as a Core opportunity.
+* For Insulation, search by the specific wound insulation material/application, using references such as MAMPACK to identify the correct application.
 
 ---
 
-## 16. Discovery Philosophy
+## 18. Discovery Philosophy
 
 The purpose of industry discovery is not to find as many industries as possible.
 
@@ -383,6 +458,15 @@ Then test the opportunity.
 
 The current focus is:
 
-**Egypt → New Industrial Sectors → New Applications → Potential Customers → Evidence → Validation → Testing**
+**Egypt → New Industrial Sectors → New Applications → Potential Customers → Evidence → Field Validation → Qualification → Testing**
+
+Current high-priority Paper Core discovery paths include:
+
+**Paper Manufacturing → Industrial Rolls/Reels → Core**
+
+**Plastic Film/Roll Production → Winding → Core**
+
+**Specific Insulation Material Winding → Core**
 
 International market discovery will be developed separately after the Egyptian opportunity discovery process is established.
+
