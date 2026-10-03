@@ -205,7 +205,32 @@ MAMPACK is a **strong industrial reference source**, not a target customer. Its 
 
 ---
 
-## 8. Evidence of Real Demand
+## 8. Carton Corner Protection — مسار بحث موازٍ
+
+زوايا الحماية الكرتونية ليست مرحلة مؤجلة إلى ما بعد انتهاء بحث الـPaper Core، بل هي **مسار منتج مستقل يعمل بالتوازي**.
+
+القاعدة البحثية:
+
+**Product / Packaging / Shipment → Exposed Edges → Corner Protection → Carton Corner Protector → Company**
+
+ويجب البحث عن:
+- الشركات التي تنتج أو تعبئ منتجات ذات حواف معرضة للتلف.
+- المنتجات ذات الرولات/الألواح/الصفائح أو الشحنات الثقيلة التي تحتاج حماية للحواف.
+- التصنيع والتخزين والنقل والتصدير حيث يمكن أن تكون حماية الحواف جزءًا من العملية.
+- الموردين الحاليين أو استخدام بدائل للحماية.
+- مقاسات الزوايا، السماكة، الطول، القوة، مقاومة الرطوبة، وطريقة التثبيت عند توفرها.
+
+**مهم:** لا نفترض أن كل شركة تعبئة أو شحن تستخدم الزوايا الكرتونية. يجب إثبات التطبيق أو الحصول على Field Validation.
+
+### مرجع المعايرة الحالي
+
+**CPK / Cartopack** هو مرجع Partial في خريطة المعايرة لارتباطه باستخدام الزوايا الكرتونية، وليس مرجعًا مؤكدًا للكور الورقي.
+
+هذا يجعل البحث القادم للزوايا مستقلًا عن بحث الـCore، مع إمكانية أن يظهر نفس العميل في المسارين عندما يستخدم المنتجين.
+
+---
+
+## 9. Evidence of Real Demand
 
 A sector should not be considered a validated opportunity based only on technical compatibility.
 
@@ -228,7 +253,7 @@ The stronger the evidence, the stronger the opportunity hypothesis.
 
 ---
 
-## 9. Technical Fit
+## 10. Technical Fit
 
 For every promising opportunity, compare the identified requirements with Alamir Pack's official capabilities.
 
@@ -250,7 +275,7 @@ Do not invent technical capabilities that are not officially documented.
 
 ---
 
-## 10. Commercial Priority
+## 11. Commercial Priority
 
 A Field-Validated application is not automatically equal in commercial priority.
 
@@ -267,7 +292,7 @@ Smaller Core applications remain valid and should not be excluded merely because
 
 ---
 
-## 11. Competition
+## 12. Competition
 
 For each promising sector, research:
 
@@ -283,7 +308,7 @@ The objective is to understand the market, not simply to list competitors.
 
 ---
 
-## 12. Customer Accessibility
+## 13. Customer Accessibility
 
 A technically suitable sector may still be difficult to reach.
 
@@ -302,7 +327,7 @@ The goal is to determine whether potential customers can realistically be reache
 
 ---
 
-## 13. Opportunity Validation
+## 14. Opportunity Validation
 
 A sector becomes a serious opportunity hypothesis only when there is evidence for several of the following:
 
@@ -321,7 +346,7 @@ The process is:
 
 ---
 
-## 14. Opportunity Classification
+## 15. Opportunity Classification
 
 Each discovered opportunity should be classified as:
 
@@ -345,7 +370,7 @@ These classifications are research statuses, not permanent judgments.
 
 ---
 
-## 15. What Happens After Discovery
+## 16. What Happens After Discovery
 
 When an opportunity becomes sufficiently supported, the next step is not automatically to spend money.
 
@@ -365,7 +390,7 @@ Results should then return to the marketing system for analysis.
 
 ---
 
-## 16. Discovery Record
+## 17. Discovery Record
 
 Each meaningful discovery should eventually be documented using a consistent structure:
 
@@ -411,7 +436,7 @@ The next practical action needed to validate the opportunity.
 
 ---
 
-## 17. Research Rules
+## 18. Research Rules
 
 * Do not invent sectors, customers, demand, or technical requirements.
 * Do not assume that technical compatibility means commercial demand.
@@ -430,7 +455,7 @@ The next practical action needed to validate the opportunity.
 
 ---
 
-## 18. Discovery Philosophy
+## 19. Discovery Philosophy
 
 The purpose of industry discovery is not to find as many industries as possible.
 
