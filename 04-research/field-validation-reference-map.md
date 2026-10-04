@@ -52,7 +52,26 @@
 
 ---
 
-## 3. Partial / Different Product
+## 3. Agricultural Produce Packing & Export — New Field-Validated Reference Cluster
+
+تمت إضافة مجموعة مكونة من **37 شركة ومحطة** تعمل في الحاصلات الزراعية والفرز والتعبئة والتبريد والتجميد والتصدير.
+
+بحسب **Field Knowledge المباشر من المستخدم**، جميع الشركات المدرجة في هذا المرجع تتعامل فعليًا مع Alamir Pack، وتم تأكيد استخدامها لكل من:
+
+- **Carton Corner Protectors / زوايا الحماية الكرتونية**
+- **Paper/Cardboard Cores / الكور الورقي أو الكرتوني**
+
+لذلك تُصنف هذه المجموعة كـ **Field Validated — 100% User Confirmed**، وتُستخدم كمرجع قوي للمعايرة، وبناء Audience Segments وInterest Discovery، والبحث عن شركات مشابهة.
+
+القائمة التفصيلية موجودة في:
+
+**[Agricultural Produce Packing & Export Reference Registry](./agricultural-produce-packing-reference-registry.md)**
+
+> هذه المعلومة هي Field Knowledge من المستخدم، وليست إحصائية منشورة أو استنتاجًا من أسماء الشركات. لا تُحفظ أرقام التليفونات أو العناوين التفصيلية أو بيانات الشراء الحساسة في المستودع العام.
+
+---
+
+## 4. Partial / Different Product
 
 ### CPK / Cartopack
 
@@ -188,6 +207,6 @@ MAMPACK يُستخدم كمرجع صناعي قوي لفهم **التطبيق** 
 ## 10. Status
 
 **Status:** Active Research Reference  
-**Last Updated:** 2026-10-03
+**Last Updated:** 2026-10-04
 
 هذا الملف يمثل نقطة المعايرة الحالية قبل استكمال Industry Discovery في الجولات القادمة.
