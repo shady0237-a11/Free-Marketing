@@ -71,7 +71,23 @@
 
 ---
 
-## 4. Partial / Different Product
+## 4. Carton Corner Protection — Field-Validated Reference Baseline
+
+تم إغلاق **خط الأساس المرجعي الحالي** لزوايا الحماية الكرتونية اعتمادًا على Field Validation المباشر من المستخدم.
+
+إجمالي المراجع المؤكدة حاليًا: **57 شركة**، وتشمل:
+
+- 37 شركة/محطة في الحاصلات الزراعية والتعبئة والتصدير، confirmed for **Carton Corner Protector + Paper/Cardboard Core**.
+- 19 شركة في السيراميك والبورسلين، confirmed for **Carton Corner Protector**.
+- Marmix، confirmed for **Carton Corner Protector**.
+
+القائمة التفصيلية موجودة في:
+
+**[Carton Corner Protection Reference Registry](./carton-corner-protection-reference-registry.md)**
+
+هذه المجموعة هي **Field Knowledge من المستخدم**، وتُستخدم كمرجع ومعايرة لبناء Industry Discovery وAudience Segmentation وInterest Discovery لاحقًا.
+
+### Partial / Different Product
 
 ### CPK / Cartopack
 
@@ -83,7 +99,7 @@
 
 ---
 
-## 4. Excluded During Calibration
+## 6. Excluded During Calibration
 
 الشركات التالية تمت مراجعتها أثناء البحث، ثم تم استبعادها بناءً على Field Validation أو عدم انطباق التطبيق:
 
@@ -101,7 +117,7 @@
 
 ---
 
-## 5. أهم ما تعلمناه من المعايرة
+## 7. أهم ما تعلمناه من المعايرة
 
 ### لا يكفي:
 
@@ -123,7 +139,7 @@
 
 ---
 
-## 6. قواعد بحث تم تعزيزها من الـField Validation
+## 8. قواعد بحث تم تعزيزها من الـField Validation
 
 ### أ. مصانع الورق الصناعية
 
@@ -160,7 +176,7 @@
 
 ---
 
-## 7. مرجع MAMPACK الصناعي
+## 9. مرجع MAMPACK الصناعي
 
 MAMPACK يُستخدم كمرجع صناعي قوي لفهم **التطبيق** الذي يدخل فيه الكور، وليس كعميل مستهدف.
 
@@ -174,7 +190,7 @@ MAMPACK يُستخدم كمرجع صناعي قوي لفهم **التطبيق** 
 
 ---
 
-## 8. قاعدة الأولوية التجارية
+## 10. قاعدة الأولوية التجارية
 
 وجود Field Fit لا يعني أن كل الفرص متساوية تجاريًا.
 
@@ -190,7 +206,7 @@ MAMPACK يُستخدم كمرجع صناعي قوي لفهم **التطبيق** 
 
 ---
 
-## 9. قاعدة المعايرة الجديدة
+## 11. قاعدة المعايرة الجديدة
 
 بعد هذه الجولة، أصبح لدينا مساران مرجعيان قويان للبحث:
 
@@ -204,9 +220,9 @@ MAMPACK يُستخدم كمرجع صناعي قوي لفهم **التطبيق** 
 
 ---
 
-## 10. Status
+## 12. Status
 
-**Status:** Active Research Reference  
+**Status:** Active Research Reference — Carton Corner Protection Baseline Complete for current known references  
 **Last Updated:** 2026-10-04
 
 هذا الملف يمثل نقطة المعايرة الحالية قبل استكمال Industry Discovery في الجولات القادمة.

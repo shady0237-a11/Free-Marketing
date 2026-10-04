@@ -48,10 +48,22 @@
 | #009 | 3H Paper & Coating | Paper Converting / Industrial Reels | Jumbo Paper Reels / Sلitting & Rewinding | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد المقاسات والاستهلاك ومتطلبات القوة والتوريد | [3H Paper & Coating Opportunity](./3h-paper-coating-opportunity.md) |
 | #010 | ELF Paper Mill | Paper Manufacturing | Industrial Paper Reels | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد المقاسات والاستهلاك ومتطلبات القوة والتوريد | [ELF Paper Mill Opportunity](./elf-paper-mill-opportunity.md) |
 | #011 | El-Obour for Paper Production | Paper & Paperboard Manufacturing | Industrial Paper Reels | Paper / Cardboard Core | Promising Opportunity | Field Validated | Purchasing / Production / Core Procurement | تحديد المقاسات والاستهلاك ومتطلبات القوة والتوريد | [El-Obour for Paper Production Opportunity](./el-obour-paper-production-opportunity.md) |
+| #012 | Agricultural Produce Packing & Export — 37-company reference cluster | Agricultural Produce / Packing / Export | Packing, Handling, Storage, Cooling, Freezing and Export | Carton Corner Protector + Paper/Cardboard Core | Existing Customer / Active Reference Cluster | Field Validated — 100% User Confirmed | Purchasing / Packaging / Production / Export Operations | استخدام المجموعة كمرجع للـAudience/Interest، ثم فصل الشركات إلى فرص مستقلة عند بدء Qualification | [Agricultural Produce & Packing Reference Registry](./agricultural-produce-packing-reference-registry.md) |
+| #013 | Carton Corner Protection — 57-company reference baseline | Multiple Industries | Edge Protection / Packaging / Shipment | Carton Corner Protector | Existing Customer / Active Reference Cluster | Field Validated — 100% User Confirmed | Purchasing / Packaging / Production / Logistics | الانتقال من Reference Baseline إلى Audience Segmentation وInterest Discovery؛ لا حاجة لمزيد من الاستكشاف العام قبل هذه المرحلة | [Carton Corner Protection Reference Registry](./carton-corner-protection-reference-registry.md) |
 
 ---
 
-## 4. حالات الفرصة
+## 4. Reference Baselines
+
+### Carton Corner Protection Baseline
+
+**Status:** Complete for the current known field-validated references.
+
+The current unified reference registry contains **57 companies** confirmed by the user as users of Carton Corner Protectors. This is a Field Knowledge baseline and is intended for calibration and marketing discovery; it does not by itself replace later commercial qualification for new prospects.
+
+See: [Carton Corner Protection Reference Registry](./carton-corner-protection-reference-registry.md)
+
+## 5. حالات الفرصة
 
 ### Research Needed
 توجد إشارات أولية، لكن المعلومات غير كافية لتحديد وجود فرصة قابلة للتحقق.

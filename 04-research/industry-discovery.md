@@ -224,9 +224,23 @@ MAMPACK is a **strong industrial reference source**, not a target customer. Its 
 
 ### مرجع المعايرة الحالي
 
-**CPK / Cartopack** هو مرجع Partial في خريطة المعايرة لارتباطه باستخدام الزوايا الكرتونية، وليس مرجعًا مؤكدًا للكور الورقي.
+تم الآن إغلاق **Baseline المرجعي الحالي** لمسار زوايا الحماية الكرتونية.
 
-هذا يجعل البحث القادم للزوايا مستقلًا عن بحث الـCore، مع إمكانية أن يظهر نفس العميل في المسارين عندما يستخدم المنتجين.
+لدينا حاليًا **57 شركة Field Validated** كمراجع مؤكدة لاستخدام الزوايا الكرتونية، منها:
+
+- 37 شركة/محطة حاصلات زراعية وتعبئة وتصدير: confirmed for **Carton Corner Protector + Paper/Cardboard Core**.
+- 19 شركة سيراميك وبورسلين: confirmed for **Carton Corner Protector**.
+- Marmix: confirmed for **Carton Corner Protector**.
+
+القائمة الموحدة: [Carton Corner Protection Reference Registry](./carton-corner-protection-reference-registry.md)
+
+**CPK / Cartopack** يظل مرجعًا Partial لفهم مسار الزوايا، وليس ضمن الـ57 Field-Validated customer references.
+
+### حالة المسار
+
+**Carton Corner Protection → Field Validation Baseline Complete → Next Phase: Audience Segmentation / Interest Discovery**
+
+ولا نحتاج في هذه المرحلة إلى توسيع البحث العام قبل الانتقال للمرحلة التالية؛ أي شركة جديدة ستظهر لاحقًا تُضاف فقط عندما يكون لها دليل جديد أو Field Validation جديد.
 
 ---
 
