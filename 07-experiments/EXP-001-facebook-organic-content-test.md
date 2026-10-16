@@ -1,0 +1,66 @@
+# EXP-001 — Facebook Organic Content Test
+
+## Experiment status
+**Status:** Scheduled / awaiting publication and results  
+**Platform:** Facebook  
+**Scheduling tool:** Metricool  
+**Project:** Free Marketing — Alamir Pack  
+**Approach:** Organic, free-first test; no paid campaign is recorded as part of this experiment.
+
+## Objective
+Test whether a small sequence of practical product-focused posts can generate relevant inquiries from businesses that use paper cores and carton corner protectors. Evaluate results using actual reach, engagement, messages, qualified inquiries, and leads—not scheduling alone.
+
+## Scope and guardrails
+- Keep the existing scheduled posts unchanged; do not cancel, edit, or reschedule them as part of this record.
+- The three new posts below were enabled for auto-publishing in Metricool. Their last known provider status was **PENDING**; this is not proof that they have published.
+- Do not count a post as published until publication is verified.
+- Do not claim campaign success until results and inquiries have been reviewed.
+- Do not store customer personal data, passwords, or access tokens in this public repository.
+
+## New posts in this test
+
+| Post | Planned date/time (Cairo) | Content focus | Last known status |
+|---|---|---|---|
+| 1 | 18 Oct 2026, 12:00 | Paper core for industrial applications; 6-inch diameter, 10 mm thickness for local production and 15 mm for specified export orders, 2.90 m agreed length | PENDING; auto-publish enabled |
+| 2 | 20 Oct 2026, 12:00 | Carton corner protectors and shipment-edge protection | PENDING; auto-publish enabled |
+| 3 | 22 Oct 2026, 12:00 | Information needed to prepare an accurate quotation: diameter, thickness, length, use, quantity, and destination | PENDING; auto-publish enabled |
+
+### Metricool planner links
+- Post 1: https://app.metricool.com/planner/calendar?blogId=7418899&openWithPostUuid=-7922141919154453632
+- Post 2: https://app.metricool.com/planner/calendar?blogId=7418899&openWithPostUuid=-831558735065495012
+- Post 3: https://app.metricool.com/planner/calendar?blogId=7418899&openWithPostUuid=-5881439392287602614
+
+## Existing posts — preserved, not changed
+At the last schedule review on 16 Oct 2026, three older scheduled posts were also present:
+- 15 Oct 2026, 22:00 Cairo — carton corner protectors / product protection.
+- 16 Oct 2026, 22:00 Cairo — shipment of carton corner protectors from Sadat City to a factory in 10th of Ramadan.
+- 18 Oct 2026, 23:00 Cairo — paper core sizing and quotation message.
+
+These older posts were explicitly to remain as they were. The 18 Oct older post is scheduled 11 hours after new Post 1; record this overlap as context, not as a reason to change the schedule without approval.
+
+## Measurement plan
+After each post is verified as published, record:
+- Actual publication date/time and URL.
+- Reach / impressions (where available).
+- Reactions, comments, shares, and clicks (where available).
+- Messages and inquiries attributable to the post.
+- Qualified leads: company/sector, requested product/specification, quantity, location, and next action. Keep personal/customer details out of this public repository.
+- Whether the inquiry progressed to a quotation or order, if known.
+
+## Results log
+No verified publication or performance results have been recorded yet.
+
+| Checkpoint | Date | Evidence / result | Learning / next action |
+|---|---|---|---|
+| Setup and scheduling | 16 Oct 2026 | Three new posts scheduled; last known status PENDING with auto-publish enabled | Verify actual publication before measuring |
+| First review | To be completed after publication | Not yet available | Compare product-focused content and inquiry quality |
+| Final review | After all three posts have had time to perform | Not yet available | Document what worked, what failed, and the next test |
+
+## Success criteria
+The experiment is useful if it produces reliable learning and/or relevant industrial inquiries. Review actual reach and engagement, number of relevant inquiries, qualified leads, quotation requests, and any resulting orders. Do not invent targets or outcomes after the fact.
+
+## Current conclusion
+**No conclusion yet.** The experiment is in the setup/scheduled stage. Its outcome will be determined from verified publication and real performance data.
+
+## Workflow
+Research → Audience → Content → Leads → Measurement → Learning
