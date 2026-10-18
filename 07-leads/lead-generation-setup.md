@@ -468,9 +468,11 @@ Google lead forms require a privacy policy link and are available only to eligib
 ### Status
 
 **Status:** Lead Generation Setup — Baseline Complete  
-**Launch Status:** Not Launched  
-**Next Phase:** Measurement & Learning Setup  
-**Last Updated:** 2026-10-04
+**Paid Lead-Generation Launch Status:** Not launched  
+**Organic Marketing Status:** Facebook pilot active; first new post verified published on 18 Oct 2026  
+**Measurement Status:** Baseline collection in progress; no verified qualified-lead results recorded yet  
+**Next Action:** Record actual inquiries, qualify genuine industrial opportunities, and measure the source when evidence is available  
+**Last Updated:** 2026-10-18
 
 ### Current Platform Reference
 
