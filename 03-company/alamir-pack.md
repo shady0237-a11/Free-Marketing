@@ -207,23 +207,15 @@ The company has substantial production capacity suitable for industrial customer
 
 12. Current Communication Channels
 
-Current official customer communication channels are:
+Confirmed customer communication and marketing channels as of 18 October 2026:
 
-Official website
-WhatsApp Business
+- Official website: alamirpack.com
+- WhatsApp Business: primary direct inquiry channel.
+- Facebook Page: connected to Metricool and being used for the current organic content pilot.
 
-Additional social media and digital channels are planned for future development.
+The company's Facebook, Instagram, and LinkedIn accounts exist, but this documented pilot currently covers Facebook only. Do not describe Instagram or LinkedIn as connected to Metricool or part of the active publishing schedule unless that status is separately verified. Other channels, including Google Business Profile, YouTube, and TikTok, are not part of the current documented pilot.
 
-At the current stage, the company does not rely on the following as active official marketing channels:
-
-Facebook
-Instagram
-LinkedIn
-Google Business Profile
-YouTube
-TikTok
-
-These channels may be created and developed as part of the Free Marketing project.
+The current Facebook pilot is organic/free-first. Its publication status must be distinguished from paid advertising, which has not been launched as part of this experiment.
 
 13. Business Goals
 
@@ -243,9 +235,14 @@ Factory / Company Address:
 
 15. Official Contact Information
 
-Official Email:
+The following four email addresses are the only approved company email addresses for use in this project and related public-facing company content:
 
-alamirpack.sales66@gmail.com
+- Sales: sales@alamirpack.com
+- Accounts: accounts@alamirpack.com
+- Production: production@alamirpack.com
+- Engineer Amir: amir@alamirpack.com
+
+Do not use or reintroduce any other email address in the company reference or marketing materials. The former Gmail address is obsolete and must not be treated as official.
 
 Official Website:
 
