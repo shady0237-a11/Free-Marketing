@@ -75,11 +75,13 @@ These areas will be developed only when needed.
 
 ## Current Status
 
-**Phase 1 — Foundation**
+**Phase 2 — Organic Pilot & Baseline Collection**
 
-The project repository and basic documentation have been created.
+The strategy, research, content, lead-generation, and measurement baselines are documented. The Facebook Page is connected to Metricool for an organic content pilot.
 
-The next step is to define the project and company information needed for the marketing system.
+As of 18 October 2026, one new paper-core post is verified as published, while two new posts remain scheduled for 20 and 22 October. Performance data and attributable lead results have not yet been reviewed, so no campaign-success claim is justified.
+
+The next step is to collect actual post insights and verified inquiries, document the learning, and use that evidence to decide the next test. Paid advertising remains separate and is not recorded as launched by this organic experiment.
 
 ## Important Note
 
