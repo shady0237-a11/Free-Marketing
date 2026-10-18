@@ -630,9 +630,27 @@ GitHub العام يحتفظ بالـStrategy والـResearch والـLearning 
 → **Controlled Paid Tests**
 → **Scale What Works**
 
+## 24. Operational Update — 18 October 2026
+
+### Current channel and experiment state
+
+- Facebook is connected to Metricool for the current organic publishing pilot.
+- The new paper-core post planned for 18 Oct 2026 at 12:00 Cairo is confirmed **PUBLISHED**.
+- The new carton-corner-protection post planned for 20 Oct 2026 at 12:00 Cairo remains **PENDING**.
+- The new quotation-specification post planned for 22 Oct 2026 at 12:00 Cairo remains **PENDING**.
+- A separate older post remains scheduled for 18 Oct 2026 at 23:00 Cairo. It has not been changed; see EXP-001 for the review note.
+- No verified reach, impressions, engagement totals, attributable inquiries, qualified leads, quotations, or orders have been entered into this measurement record as of this check.
+
+### Immediate measurement actions
+
+1. Capture available Facebook/Metricool insights for the published post when metrics are available.
+2. Record only inquiries that actually arrive and can be attributed to a source with evidence.
+3. Keep customer names, personal contact details, private quantities, and sensitive commercial information out of this public repository.
+4. Do not label the experiment successful until relevant inquiry and performance evidence has been reviewed.
+
 ### Status
 
-**Status:** Measurement & Learning Baseline — Complete  
-**Operational Status:** Ready for Baseline Collection  
-**Next Action:** Start collecting real results from content / outreach / leads  
-**Last Updated:** 2026-10-04
+**Status:** Measurement framework established; baseline collection in progress  
+**Operational Status:** Organic Facebook pilot active; no performance conclusion yet  
+**Next Action:** Collect first verified post metrics and log real inquiries using the privacy-conscious template  
+**Last Updated:** 2026-10-18
