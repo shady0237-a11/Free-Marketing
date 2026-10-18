@@ -44,6 +44,7 @@ The system may use free tools such as:
 * Canva
 * CapCut
 * Meta Business Suite
+* Metricool (Facebook organic scheduling and status checks)
 * WhatsApp Business
 * Google Business Profile
 * GitHub
@@ -69,9 +70,11 @@ Website changes must not be made without explicit approval.
 
 ## Current Phase
 
-**Phase 1 — Foundation**
+**Phase 2 — Organic Pilot & Baseline Collection**
 
-We are currently building the basic structure of the marketing system and documenting the tools, workflow, experiments, and lessons learned.
+The Facebook Page is connected to Metricool for a free-first organic content test. As of 18 October 2026, one new paper-core post has been verified as published; two new experiment posts remain scheduled for 20 and 22 October. Performance and lead outcomes are not yet established.
+
+The next step is to collect real post insights and verified business inquiries, then document what worked, what did not, and what should be tested next. Paid advertising is not considered launched by this organic pilot.
 
 ---
 
