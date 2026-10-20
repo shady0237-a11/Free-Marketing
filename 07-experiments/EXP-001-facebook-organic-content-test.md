@@ -82,3 +82,29 @@ A fresh Metricool scheduled-posts check was performed for 20–31 Oct 2026 (Afri
 - The experiment remains **unconcluded**. Do not record success, failure, or lead generation until publication and performance are independently verified.
 - Next action: verify the 18 Oct post on the Facebook page/Metricool published content, then collect available performance data after each post is confirmed published.
 - The scheduled 20 Oct and 22 Oct posts were not edited, cancelled, or rescheduled during this review.
+
+
+### Verified publication and first metrics — checked 20 Oct 2026
+Metricool's Facebook post analytics returned a matching paper-core post published on 18 Oct 2026. This confirms publication of the post focused on the 6-inch core, 10 mm local / 15 mm specified export thickness, and 2.90 m length.
+
+**Published post:** https://facebook.com/1573658978109821/posts/1577651297710589
+
+| Metric | Result at review |
+|---|---:|
+| Impressions | 306 |
+| Reach | 190 |
+| Reactions | 3 |
+| Comments | 0 |
+| Shares | 0 |
+| Link clicks | 0 |
+| Post clicks (Metricool metric) | 16 |
+| Spend reported | 0.0 |
+
+**Interpretation:** These are an early snapshot, not a final campaign result. The post has recorded reach and some interactions, but no link clicks or comments at this check. The 16 post clicks are kept separate from link clicks and should not be interpreted as customer inquiries. No verified lead, quotation, or order has been attributed to this post in the data checked.
+
+A separate older paper-core post from 18 Oct was also returned by analytics (127 impressions, reach 73, 2 reactions, 4 post clicks). It is recorded only as context and is not counted as one of the three new experiment posts.
+
+### Updated next actions
+1. Recheck the published 18 Oct experiment post after more time has elapsed and record any further metrics.
+2. Verify publication and collect metrics for the 20 Oct and 22 Oct posts after they appear in published-post analytics.
+3. Record inquiries or quotation requests only when they are actually confirmed; do not infer leads from reach or clicks.
