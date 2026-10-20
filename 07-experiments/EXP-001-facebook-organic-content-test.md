@@ -130,3 +130,11 @@ The user confirmed that the 20 Oct carton-corner-protector post was successfully
 A fresh Metricool check still returned the scheduled item for 20 Oct at 12:00 with status `PENDING` and `autoPublish: true`; the Facebook post-analytics query for 20–21 Oct returned no rows. The available connector therefore does not independently confirm the live post or its actual URL/time, and its planner status appears inconsistent with the user's confirmation.
 
 **Recordkeeping decision:** Treat publication as confirmed by the user, while keeping actual post URL, exact publication timestamp, and post-specific performance metrics unverified until a direct Facebook post URL or published-post evidence is available. Do not edit, cancel, or reschedule the post. The 22 Oct post remains scheduled for 12:00 Cairo time with auto-publish enabled and is unchanged.
+
+
+### Screenshot review — latest visible Facebook post (21 Oct 2026)
+The user supplied a screenshot and clarified it shows the latest post currently visible on the Alamir Pack Facebook Page. The visible post is the paper-core post beginning “مقاس الكور الورقي مش مظبوط بيبوظلك الشغل؟” and Facebook displays “تم النشر بواسطة Metricool”.
+
+- This screenshot is visual evidence that the **paper-core post** is published/visible on the Page.
+- It is **not** evidence that the separate 20 Oct carton-corner-protector post was published; that post's publication remains user-reported but not independently matched to a direct URL in the available data.
+- No post content, schedule, or publishing settings were changed.
