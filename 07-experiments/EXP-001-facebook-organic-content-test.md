@@ -108,3 +108,17 @@ A separate older paper-core post from 18 Oct was also returned by analytics (127
 1. Recheck the published 18 Oct experiment post after more time has elapsed and record any further metrics.
 2. Verify publication and collect metrics for the 20 Oct and 22 Oct posts after they appear in published-post analytics.
 3. Record inquiries or quotation requests only when they are actually confirmed; do not infer leads from reach or clicks.
+
+
+### Follow-up verification — 20 Oct 2026 (after the 20 Oct scheduled time)
+A second check was run against Metricool's scheduled-post list and Facebook post analytics for 18–20 Oct 2026 (Africa/Cairo).
+
+| Item | Verified result | Conclusion |
+|---|---|---|
+| 20 Oct, 12:00 — carton corner protectors | At the time of this check, Metricool still returned the item in scheduled posts with status `PENDING` and `autoPublish: true`. No matching 20 Oct post appeared in the returned Facebook post-analytics rows. | **Publication not confirmed.** The status remaining PENDING after the scheduled time needs follow-up; do not assume it published. |
+| 22 Oct, 12:00 — paper-core quotation specifications | Still scheduled with status `PENDING` and `autoPublish: true`. | Future scheduled item; no publication claim. |
+| 18 Oct, 12:00 — paper-core experiment post | Analytics returned the published post at https://facebook.com/1573658978109821/posts/1577651297710589 with 306 impressions, reach 190, 3 reactions, 0 comments, 0 shares, 0 link clicks, and 16 post clicks. | Publication confirmed; early metrics only. No verified lead or quotation attributed. |
+
+**Actions taken:** Read-only verification and documentation only. No scheduled post was edited, cancelled, or rescheduled.
+
+**Next action:** Recheck the Facebook Page's published content and Metricool after the 20 Oct post's expected publication. If it remains absent from published analytics and PENDING in the planner, treat it as a possible auto-publishing issue and inspect the Metricool publication/error details before changing anything. Recheck the 22 Oct post after its scheduled time as well.
