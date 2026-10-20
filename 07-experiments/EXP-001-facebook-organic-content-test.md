@@ -122,3 +122,11 @@ A second check was run against Metricool's scheduled-post list and Facebook post
 **Actions taken:** Read-only verification and documentation only. No scheduled post was edited, cancelled, or rescheduled.
 
 **Next action:** Recheck the Facebook Page's published content and Metricool after the 20 Oct post's expected publication. If it remains absent from published analytics and PENDING in the planner, treat it as a possible auto-publishing issue and inspect the Metricool publication/error details before changing anything. Recheck the 22 Oct post after its scheduled time as well.
+
+
+### User-confirmed publication update — 21 Oct 2026
+The user confirmed that the 20 Oct carton-corner-protector post was successfully published after midnight (after 00:00 Cairo time, on the following calendar date). This is recorded as **user-confirmed publication**, not as a timestamp independently verified by Metricool.
+
+A fresh Metricool check still returned the scheduled item for 20 Oct at 12:00 with status `PENDING` and `autoPublish: true`; the Facebook post-analytics query for 20–21 Oct returned no rows. The available connector therefore does not independently confirm the live post or its actual URL/time, and its planner status appears inconsistent with the user's confirmation.
+
+**Recordkeeping decision:** Treat publication as confirmed by the user, while keeping actual post URL, exact publication timestamp, and post-specific performance metrics unverified until a direct Facebook post URL or published-post evidence is available. Do not edit, cancel, or reschedule the post. The 22 Oct post remains scheduled for 12:00 Cairo time with auto-publish enabled and is unchanged.
