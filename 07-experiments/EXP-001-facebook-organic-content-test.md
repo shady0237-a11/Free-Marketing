@@ -12,7 +12,7 @@ Test whether a small sequence of practical product-focused posts can generate re
 
 ## Scope and guardrails
 - Keep the existing scheduled posts unchanged; do not cancel, edit, or reschedule them as part of this record.
-- The three new posts below were enabled for auto-publishing in Metricool. Their last known provider status was **PENDING**; this is not proof that they have published.
+- At setup, the target posts were **PENDING**. On 23 Oct 2026, Metricool returned provider status **PUBLISHED** for posts scheduled on 16, 18, 20, and 22 Oct. PENDING was not treated as proof of publication.
 - Do not count a post as published until publication is verified.
 - Do not claim campaign success until results and inquiries have been reviewed.
 - Do not store customer personal data, passwords, or access tokens in this public repository.
@@ -21,9 +21,9 @@ Test whether a small sequence of practical product-focused posts can generate re
 
 | Post | Planned date/time (Cairo) | Content focus | Last known status |
 |---|---|---|---|
-| 1 | 18 Oct 2026, 12:00 | Paper core for industrial applications; 6-inch diameter, 10 mm thickness for local production and 15 mm for specified export orders, 2.90 m agreed length | PENDING; auto-publish enabled |
-| 2 | 20 Oct 2026, 12:00 | Carton corner protectors and shipment-edge protection | PENDING; auto-publish enabled |
-| 3 | 22 Oct 2026, 12:00 | Information needed to prepare an accurate quotation: diameter, thickness, length, use, quantity, and destination | PENDING; auto-publish enabled |
+| 1 | 18 Oct 2026, 12:00 | Paper core for industrial applications; 6-inch diameter, 10 mm thickness for local production and 15 mm for specified export orders, 2.90 m agreed length | PUBLISHED in Metricool on 23 Oct recheck; auto-publish had been enabled |
+| 2 | 20 Oct 2026, 12:00 | Carton corner protectors and shipment-edge protection | PUBLISHED in Metricool on 23 Oct recheck; auto-publish had been enabled |
+| 3 | 22 Oct 2026, 12:00 | Information needed to prepare an accurate quotation: diameter, thickness, length, use, quantity, and destination | PUBLISHED in Metricool on 23 Oct recheck; auto-publish had been enabled |
 
 ### Metricool planner links
 - Post 1: https://app.metricool.com/planner/calendar?blogId=7418899&openWithPostUuid=-7922141919154453632
@@ -48,19 +48,19 @@ After each post is verified as published, record:
 - Whether the inquiry progressed to a quotation or order, if known.
 
 ## Results log
-No verified publication or performance results have been recorded yet.
+A publication-status and performance snapshot was recorded on 23 Oct 2026. See the verification section below; metrics are a point-in-time snapshot and may change.
 
 | Checkpoint | Date | Evidence / result | Learning / next action |
 |---|---|---|---|
 | Setup and scheduling | 16 Oct 2026 | Three new posts scheduled; last known status PENDING with auto-publish enabled | Verify actual publication before measuring |
-| First review | To be completed after publication | Not yet available | Compare product-focused content and inquiry quality |
+| First review | 23 Oct 2026 | Four target posts marked PUBLISHED in Metricool; post-level analytics returned for matching dates/content | Record metrics and verify post-ID discrepancy before strong attribution |
 | Final review | After all three posts have had time to perform | Not yet available | Document what worked, what failed, and the next test |
 
 ## Success criteria
 The experiment is useful if it produces reliable learning and/or relevant industrial inquiries. Review actual reach and engagement, number of relevant inquiries, qualified leads, quotation requests, and any resulting orders. Do not invent targets or outcomes after the fact.
 
 ## Current conclusion
-**No conclusion yet.** The experiment is in the setup/scheduled stage. Its outcome will be determined from verified publication and real performance data.
+**Preliminary only.** Metricool marks the four target posts PUBLISHED and returned post-level metrics. The analytics-row post IDs differ from the provider-status URLs, so match attribution should be treated cautiously until the Facebook page is checked directly. No verified lead or order outcome is available in this run.
 
 ## Workflow
 Research → Audience → Content → Leads → Measurement → Learning
@@ -138,3 +138,34 @@ The user supplied a screenshot and clarified it shows the latest post currently 
 - This screenshot is visual evidence that the **paper-core post** is published/visible on the Page.
 - It is **not** evidence that the separate 20 Oct carton-corner-protector post was published; that post's publication remains user-reported but not independently matched to a direct URL in the available data.
 - No post content, schedule, or publishing settings were changed.
+
+
+## Verification and performance snapshot — 23 Oct 2026
+
+### Publication status (Metricool provider records)
+Metricool returned **PUBLISHED** for each target scheduled post:
+- 16 Oct, 22:00 Cairo — shipment of carton corner protectors. Provider URL: https://facebook.com/1573658978109821/posts/1576099394532446
+- 18 Oct, 12:00 Cairo — paper-core specifications. Provider URL: https://facebook.com/1573658978109821/posts/1577651274377258
+- 20 Oct, 12:00 Cairo — carton corner protectors. Provider URL: https://facebook.com/1573658978109821/posts/1579707027505016
+- 22 Oct, 12:00 Cairo — information needed for a quotation. Provider URL: https://facebook.com/1573658978109821/posts/1581731233969262
+
+The older 18 Oct, 23:00 Cairo paper-core post also returned PUBLISHED: https://facebook.com/1573658978109821/posts/1578160610992991. It remains an existing post and was not changed.
+
+### Available post-level analytics
+Metricool's Facebook posts analytics returned the following rows for matching publication dates and text. Values are a snapshot retrieved on 23 Oct 2026; no inference has been made beyond the returned fields.
+
+| Target post | Impressions | Reach | Reactions | Comments | Shares | Link clicks | Total clicks | Engagement (Metricool) | Analytics-row URL |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| 16 Oct shipment / carton corners | 259 | 131 | 4 | 0 | 0 | 0 | 9 | 9.92 | https://facebook.com/1573658978109821/posts/1576099411199111 |
+| 18 Oct, 12:00 paper-core specifications | 385 | 216 | 3 | 0 | 0 | 0 | 18 | 9.72 | https://facebook.com/1573658978109821/posts/1577651297710589 |
+| 20 Oct carton corner protectors | 215 | 98 | 5 | 0 | 0 | 0 | 7 | 12.24 | https://facebook.com/1573658978109821/posts/1579707064171679 |
+| 22 Oct quotation specifications | 109 | 59 | 3 | 0 | 0 | 0 | 10 | 22.03 | https://facebook.com/1573658978109821/posts/1581731257302593 |
+| 18 Oct, 23:00 existing paper-core post (context only) | 192 | 98 | 2 | 0 | 0 | 0 | 4 | 6.12 | https://facebook.com/1573658978109821/posts/1578160640992988 |
+
+Metricool defines engagement here as interactions per 1,000 people reached. “Total clicks” is the separate FBPO23 field and should not be read as link clicks; link clicks were reported as zero for all five rows above.
+
+### Data-quality and lead limitations
+- For all four target posts, the post IDs in the analytics rows differ from the post IDs in the Metricool provider-status URLs, despite matching dates and text. The same discrepancy appears for the older 18 Oct post. This has been recorded rather than assuming the IDs are interchangeable.
+- Attempts to open the Facebook post URLs directly in this run were blocked by the web fetcher, so independent public-page verification was not possible. Publication status above is based on Metricool's **PUBLISHED** provider records.
+- The connected Metricool analytics returned zero comments and zero link clicks for these rows. The available connected tools did not expose Facebook inbox/DM contents, so no conclusion can be drawn about private messages. No verified inquiries, qualified leads, quotations, or orders were available to record in this run.
+- No posts, schedules, or publication settings were edited or cancelled during this check.
