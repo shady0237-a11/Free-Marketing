@@ -1,7 +1,7 @@
 # EXP-001 — Facebook Organic Content Test
 
 ## Experiment status
-**Status:** In progress — publication and performance verification pending  
+**Status:** Metricool reports the four target posts as PUBLISHED; 23 Oct 2026 performance snapshot recorded. Independent public-page and lead verification remain incomplete.  
 **Platform:** Facebook  
 **Scheduling tool:** Metricool  
 **Project:** Free Marketing — Alamir Pack  
@@ -13,7 +13,7 @@ Test whether a small sequence of practical product-focused posts can generate re
 ## Scope and guardrails
 - Keep the existing scheduled posts unchanged; do not cancel, edit, or reschedule them as part of this record.
 - At setup, the target posts were **PENDING**. On 23 Oct 2026, Metricool returned provider status **PUBLISHED** for posts scheduled on 16, 18, 20, and 22 Oct. PENDING was not treated as proof of publication.
-- Do not count a post as published until publication is verified.
+- Do not treat `PENDING` as proof of publication. Record `PUBLISHED` only when returned by Metricool, and keep any limitation on independent public-page verification explicit.
 - Do not claim campaign success until results and inquiries have been reviewed.
 - Do not store customer personal data, passwords, or access tokens in this public repository.
 
