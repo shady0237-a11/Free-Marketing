@@ -76,3 +76,26 @@ The original 30-company cohort was audited independently from later additions to
 - **Gate B — Persistence:** still requires an explicitly approved named company/batch and a full create/read-back test.
 - **Gate D — Automation:** not yet proven. The automation is enabled, but its saved environment is inherited with no explicit connected execution environment visible. A manual inline run is not proof of scheduled-context connector access.
 - The 30-company QA result does not close the separate low-confidence identity review task.
+
+
+## Follow-up candidate verification — Mazeed Produce / AIDC — 2026-11-03
+
+**Disposition: hold out of Airtable pending human review; no candidate record created.**
+
+- The official AIDC/Mazeed site identifies Mazeed Produce as the fresh-produce brand of Agricultural Investment & Development Company (AIDC), describes an integrated grower/packer/exporter operation, and states that it operates its own packhouse with grading, labelling, cold-chain and packing activity.
+- The official contact page publishes the farm/packhouse location as Km 125, Cairo–Assiut Western Desert Road, Minya Governorate, and the export email export@aidcegypt.com.
+- The official company pages describe customised fruit packaging, including count-packed cartons for oranges and pomegranates, and packing for grapes and peaches. This supports a **corner-protection research hypothesis only**; it does not prove the use or purchase of carton corner protectors.
+- No evidence was found for actual winding/reel operations or paper-core consumption. Therefore the candidate is **not** a paper-core-track match.
+- The Egyptian Export Portal profile lists a published mobile number and identifies Reham Kamal as export manager, but also shows “previously exported: No” while the company's current website claims 22 export markets. This material conflict is unresolved and must remain visible; the portal profile may be stale or the website claim may be overstated.
+- Identity confidence: **medium-high** for the AIDC/Mazeed brand relationship based on the company's own pages and an older independent EBC profile; legal registration/current exporter status is not independently settled.
+- Corner-pattern fit: **medium** based on the stated in-house packhouse and carton packing, without direct edge-protection evidence.
+- Core-pattern fit: **not supported** by the available evidence.
+- Duplicate review against the live candidate and reference names found no existing Mazeed/AIDC record.
+- No phone call, email, WhatsApp, form submission, or other contact was made. The company was not saved because the research result is still a hypothesis and the user has not approved this named record for saving.
+
+Sources:
+- https://www.aidcegypt.com/about.html
+- https://www.aidcegypt.com/contact.html
+- https://www.aidcegypt.com/certifications.html
+- https://www.expoegypt.gov.eg/co/mazeed-produce
+- https://ebc.com.eg/ebc.com.eg/mazeed-produce-fresh-fruits-irrigation-systems/index.html
