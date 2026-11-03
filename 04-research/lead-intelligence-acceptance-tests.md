@@ -44,3 +44,35 @@ Stop the run and report a blocker if:
 - a create operation times out or returns an uncertain result,
 - a linked record cannot be verified,
 - a request would require external contact or an unapproved industry expansion.
+
+
+## 30-company QA execution — 2026-11-03
+
+The original 30-company cohort was audited independently from later additions to the base.
+
+| Check | Result |
+|---|---|
+| Unique candidate names in cohort | 30/30 |
+| Candidate source URLs, evidence summary, and limitations present | 30/30 |
+| Verification, qualification, and action links present | 30/30 |
+| Seven numeric score components present | 30/30 |
+| Total score equals component sum | 30/30 |
+| Need-proof checkbox incorrectly enabled | 0 |
+| Unsupported buyer/consumption/supplier/specification/purchase-cycle values | 0 |
+| External contact marked as completed | 0 |
+| Structural acceptance issues | 0 |
+
+**Gate C structural/data-integrity result: PASS for the 30-company cohort.** This does not mean all 30 companies are commercially qualified or that every low-confidence identity issue is resolved. Low-confidence and conflicting cases remain explicitly flagged for human review.
+
+### Corrective actions completed
+
+- Cleared 58 placeholder/procedural values from restricted qualification fields across 12 records; those fields are now blank pending direct evidence.
+- Removed one exact duplicate run-ledger row after confirming the same run ID, timestamp, summary, counts, and no unique company links. The earlier canonical row was retained.
+- Left later, unscored candidate records unscored; blank score fields were not converted to zero.
+- No candidate company, source evidence, qualification status, or external-contact history was deleted or overwritten.
+
+### Remaining release blockers
+
+- **Gate B — Persistence:** still requires an explicitly approved named company/batch and a full create/read-back test.
+- **Gate D — Automation:** not yet proven. The automation is enabled, but its saved environment is inherited with no explicit connected execution environment visible. A manual inline run is not proof of scheduled-context connector access.
+- The 30-company QA result does not close the separate low-confidence identity review task.
