@@ -168,3 +168,14 @@ Do not fabricate a run ID or claim a run was logged if no record was created and
 - No deletion or silent overwriting of existing records.
 - No expansion beyond approved reference patterns.
 - No claims of completed work without tool-confirmed evidence and read-back.
+
+
+## 12. Data hygiene and scoring controls — QA addendum 2026-11-03
+
+- Keep the following qualification fields genuinely blank until direct evidence exists: monthly consumption, current supplier, required specifications, named purchasing decision-maker, and purchase cycle.
+- Do not store placeholders such as "غير معروف", "غير متاحة", "غير مثبت", or workflow instructions in those data fields. Put explanatory notes in the notes/limitations field instead.
+- If a candidate has not been scored, leave all score components and the total blank. Do not use zero to mean "not assessed".
+- If a candidate is scored, all seven components must be numeric and the total must equal their sum. The score remains a research triage measure, never a purchase probability.
+- Run IDs must be unique. Before creating a run-ledger row, read existing IDs and confirm that the proposed ID is unused. A run must have one canonical ledger row.
+- Do not claim scheduled-task source access from a conversation-level connector test. Gate D passes only after a genuinely scheduled execution demonstrates access from its own context.
+- A duplicate technical run-ledger row may be removed only after confirming exact duplication, absence of unique linked data, and explicit user authorization. Preserve one canonical row and document the correction.
