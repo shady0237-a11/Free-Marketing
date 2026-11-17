@@ -106,35 +106,44 @@ A qualification record may document an unknown/early-stage state. It must not ma
 ### Action log
 Record research and verification actions. Set يتطلب موافقة مسبقة for any action requiring approval. Do not record an external contact as completed unless it actually occurred with explicit authorization; external contact remains prohibited here.
 
-## 8. Approval gate and write procedure
+## 8. Standing authorization and write procedure — approved 2026-11-17
 
 ### Discovery automation
-The scheduled weekly task is read-only. It may:
-- read Airtable and reference files,
-- search and verify companies,
-- prepare a structured candidate batch,
-- prepare proposed Airtable field values and intended record links,
-- produce a report with exclusions, duplicates, confidence, and unresolved questions.
+The user has explicitly authorized the weekly discovery task to save qualifying new companies automatically in Airtable. This is a standing authorization for this defined workflow; do not ask for approval for each weekly batch or each company.
 
-It must not write to Airtable, GitHub, or any other system.
+The scheduled task may read approved references and Airtable, research and verify companies, perform duplicate checks, create qualifying candidate records and their linked evidence/qualification/research-action records, write a run-ledger entry, and verify all writes by reading them back.
 
-### Human approval
-After the report is presented, wait for an explicit user instruction approving a named batch or named companies for saving. A general request to continue research is not save approval.
+### Eligibility gate for automatic candidate creation
+Create a candidate only when all of the following are supported by reviewable evidence:
+- company/trading identity and current operating activity are sufficiently established;
+- the actual process matches an approved reference pattern for paper cores or carton corner protectors;
+- the relevant operating site/location is reasonably attributed;
+- no exact or probable duplicate remains unresolved;
+- the company is not a competitor manufacturing the same product for sale, unless a separate evidenced consuming operation independently qualifies.
 
-### Save execution
-After approval:
-1. Re-read the live Airtable schema and all relevant candidate records.
-2. Run duplicate checks again immediately before writing.
-3. Create candidate records first.
-4. Create verification records and link them to the returned candidate record IDs.
-5. Create the qualification record with unknowns left blank and need-proof unchecked.
-6. Create a research action record; no external action.
-7. Link matching reference records only when the relationship is supported.
-8. Write a run-ledger record with the approved batch and action result.
-9. Read all created records back from Airtable and verify field values and links.
-10. Report created IDs/counts, skipped duplicates, failures, and unresolved links. Never report success until read-back confirms it.
+Save qualifying P3 and P2 candidates when the minimum identity, activity, and reference-fit evidence is met. Label P3 as an exact reference-pattern match and P2 as an adjacent/partial match with the missing process link stated. Do not save P1 watchlist entries, P0 competitors/exclusions, unresolved identities, or unresolved probable duplicates. P2 is not a confirmed customer or confirmed product user.
 
-If any step fails, stop dependent writes, preserve successful IDs, report partial completion, and do not blindly retry a create.
+### Required linked records and field discipline
+1. Re-read the live Airtable schema, select options, and all relevant candidate/reference/run records before each write batch.
+2. Re-run duplicate checks immediately before creating a candidate.
+3. Create one candidate record per supported legal/operating entity/site; never use an upsert that could merge distinct companies or overwrite an existing record.
+4. Create one verification record per material claim/source and link it to the returned candidate record ID.
+5. Create a linked initial qualification record with status لم يبدأ (or the closest existing schema option), and leave need-proof unchecked.
+6. Create a linked research-only action record; state clearly that no external contact occurred.
+7. Link a confirmed field reference only when the actual process relationship is supported; preserve the P3/P2 distinction in the available classification fields/notes.
+8. Populate only evidenced identity, activity, location, public contact, product-hypothesis, source, verification-date, confidence, and limitation fields. Keep consumption, current supplier, specifications, purchasing decision-maker, and purchase-cycle fields blank unless direct company-specific evidence exists. Never mark the company as a confirmed customer or confirmed need based on pattern fit.
+9. Leave all score components and totals blank if the required scoring inputs are incomplete; never use zero to mean unassessed.
+10. Do not modify or delete existing candidate, reference, execution-plan, or historical records as part of discovery.
+
+### Safe write, recovery, and verification
+- Write in stages: candidate first, then verification, qualification, and research-action records using the actual returned candidate ID; write the run ledger with unique run ID and batch counts/status.
+- If a later stage fails, stop dependent writes, retain successful IDs, report partial completion, and do not blindly retry a create or create a duplicate candidate.
+- Read back every created record and verify key fields and linked-record relationships. A create response alone is not success.
+- If Airtable access, schema resolution, or write permission is unavailable in the scheduled execution context, stop all writes, report the batch as not saved, and list drafts/exceptions. Never imply that conversation-level connector access proves scheduled-task access.
+- Report saved P3 and P2 separately, plus P1 watchlist (not saved), duplicates/existing companies, competitors/exclusions, and unresolved identities.
+
+### Authorization boundary
+This standing authorization covers only research-driven candidate/evidence/qualification/action/run-ledger records described above. It does not authorize calls, email, WhatsApp, forms, outreach, quotes, sales actions, paid services, new industry tracks, deletion, or edits to existing records. External contact remains prohibited. New reference-pattern expansion requires separate user approval.
 
 ## 9. Run ledger
 One record per run. Store:
