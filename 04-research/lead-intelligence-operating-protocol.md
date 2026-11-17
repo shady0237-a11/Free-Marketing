@@ -166,14 +166,14 @@ Do not fabricate a run ID or claim a run was logged if no record was created and
 5. Rejected candidates and reason.
 6. Proposed new patterns requiring user calibration.
 7. Counts and limitations, including sources unavailable or searches not completed.
-8. Airtable save status: always state not saved — awaiting approval for the discovery automation.
+8. Airtable save status: report the actual automatic-save result, separating saved P3/P2, not-saved P1/watchlist, duplicates, exclusions, and partial failures; never claim success without read-back.
 9. Next human decision required.
 
 ## 11. Hard safety rules
 - No external contact or outreach.
 - No unsupported purchase/consumption claims.
 - No automatic qualification as a customer.
-- No automatic writes by the weekly discovery task.
+- Automatic writes are permitted only within the user's standing authorization in Section 8; no unrelated or destructive writes are permitted.
 - No deletion or silent overwriting of existing records.
 - No expansion beyond approved reference patterns.
 - No claims of completed work without tool-confirmed evidence and read-back.
