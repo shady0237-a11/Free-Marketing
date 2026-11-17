@@ -99,3 +99,18 @@ Sources:
 - https://www.aidcegypt.com/certifications.html
 - https://www.expoegypt.gov.eg/co/mazeed-produce
 - https://ebc.com.eg/ebc.com.eg/mazeed-produce-fresh-fruits-irrigation-systems/index.html
+
+
+## Standing authorization amendment — 2026-11-17
+
+The user explicitly authorized recurring automatic registration in Airtable of new, non-duplicate P3 and qualifying P2 companies that meet the minimum identity, current-activity, and approved reference-fit evidence threshold. Per-company or per-batch approval is no longer required for this bounded discovery workflow.
+
+Acceptance conditions for every automatic save:
+- P1/watchlist, P0/competitors, unresolved identities, and unresolved probable duplicates are not saved.
+- P2 records are clearly labeled as adjacent/partial matches and their missing process evidence is stated.
+- Candidate, source-level verification, initial qualification, research-only action, and unique run-ledger records are linked and read back.
+- Need remains unproven; commercial consumption, supplier, specifications, buyer, and purchase-cycle fields remain blank absent direct evidence.
+- No external contact, sales action, destructive edit, or unapproved industry expansion occurs.
+- A failed or unavailable write path produces an explicit not-saved report; no success is claimed without read-back.
+
+Historical QA notes about a then-required named-batch approval describe the state at the time of that QA and are superseded only for this explicitly authorized recurring discovery workflow. They do not authorize unrelated writes or outreach.
