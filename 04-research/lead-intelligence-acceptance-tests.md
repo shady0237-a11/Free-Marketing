@@ -20,7 +20,7 @@ A release is not considered complete until every critical test passes.
 | SCORE-01 | Confidence separation | Identity confidence and reference-fit confidence are separate |
 | SCORE-02 | No invented need | No purchase, consumption, supplier, or need is inferred from industry fit |
 | AIR-01 | Schema read | Live table/field IDs are resolved before every write batch |
-| AIR-02 | Approval gate | No candidate write before explicit approval of the named batch |
+| AIR-02 | Standing authorization gate | Only candidates meeting the user-approved P2/P3 evidence threshold are saved; no per-company approval is requested; no outreach is performed |
 | AIR-03 | Linked records | Candidate IDs are returned before verification/qualification/action links are written |
 | AIR-04 | Read-back | Every created/updated record and relationship is read back and checked |
 | AIR-05 | Partial failure | Dependent writes stop on failure; successful IDs are retained; no blind create retry |
